@@ -11,3 +11,9 @@ Mobile workflow:
 - Restore JSON can reload a previous exported results file.
 
 All catalog images are embedded in index.html, so no API key is required.
+
+iPhone note (2026-10-01):
+- On iPhone, Save Results / Save CSV open a copy screen instead of downloading a
+  file (iOS Safari ignores the download attribute). Tap Copy, then paste the
+  text into Notes or Files.
+- The "Actual quantity" field only accepts digits.
